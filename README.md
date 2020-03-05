@@ -1,0 +1,2 @@
+# devsetup
+all my setup 
